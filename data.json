@@ -1,0 +1,11 @@
+{
+	"usuarios": [
+		{ "nome": "Carla", "email": "carla@dominio.com.br", "cidade": "Garanhuns" },
+		{ "nome": "Bruno", "email": "bruno@dominio.com.br", "cidade": "Recife" },
+		{ "nome": "Pedro", "email": "pedro@dominio.com.br", "cidade": "Caruaru" },
+		{ "nome": "Vanessa", "email": "vanessa@dominio.com.br", "cidade": "Lajedo" },
+		{ "nome": "Paulo", "email": "paulo@dominio.com.br", "cidade": "Pesqueira" },
+		{ "nome": "Maria", "email": "maria@dominio.com.br", "cidade": "Bom Conselho" },
+		{ "nome": "Sandra", "email": "sandra@dominio.com.br", "cidade": "Arcoverde" }
+	]
+}
